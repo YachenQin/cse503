@@ -1,0 +1,59 @@
+body{
+    padding: 10px 5px 20px 20px;
+    text-align: center;
+}
+
+.login{
+    position:absolute;
+    font-family:times;
+    top:200px;
+    width:600px;
+    right:300px;
+    background-color:rgba(0,0,0,0.2);
+    background-clip: padding-box;
+}
+
+.note{
+    font-family:times;
+    font-size: 10px;
+}
+
+.inputdesign{
+    border: 1px solid rgba(255,255,255,.5);
+    background-color:rgba(0,0,0,0.2);
+    background-clip: padding-box;
+    font-size: 30px;
+    font-family:"Comic Sans MS";
+
+}
+
+.logfont{
+    font-family:"Comic Sans MS";
+    font-size: 30px;
+}
+
+.background{
+    background-image: url(background-login.jpg);
+    background-repeat:no-repeat;
+
+}
+
+.guest {
+    position: absolute;
+    top: 370px;
+    right: 450px;
+    width: 300px;
+    font-size: 30px;
+    font-family:"Arial Black";
+    color: black;
+
+}
+
+.default{
+    border:5px solid lightblue;
+    position:fixed;
+    width:150px;
+    left:20px;
+    top:20px;
+    text-align:center;
+}

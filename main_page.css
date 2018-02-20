@@ -1,0 +1,83 @@
+body{
+    padding: 20px 5px 20px 20px;
+    margin-left: 150px;
+    margin-top: 70px;
+
+}
+
+.title{
+    font-size: 30px;
+    font-family:"Comic Sans MS";
+    color:gray();
+}
+
+.author{
+    font-size: 15px;
+    font-family:"Bradley Hand";
+    color:darkslategray;
+}
+
+.context{
+    font-size: 20px;
+    font-family:"times";
+    color:black;
+    width:500px;
+    background-color: rgba(255, 179, 55, 0.21);
+    background-clip: padding-box;
+}
+
+.like{
+    font-size: 15px;
+    font-family:"Chalkduster";
+    color:hotpink;
+}
+
+.dislike{
+    font-size: 15px;
+    font-family:"Chalkduster";
+    color:dodgerblue;
+}
+
+.background{
+    background-image: url(background-website.jpg);
+
+}
+
+.default{
+    border:1px solid lightblue;
+    position:absolute;
+    width:200px;
+    right:20px;
+    top: 20px;
+    text-align:center;
+    font-family: "American Typewriter";
+    font-size: 10px;
+}
+
+.viewfull{
+    border: 1px solid rgba(255, 84, 152, 0.12);
+    background-color: rgba(255, 179, 55, 0);
+    font-size: 10px;
+    font-family:"Comic Sans MS";
+}
+
+.likebutton{
+    border: 1px solid rgba(255, 74, 147, 0.63);
+    background-color: rgba(255, 179, 55, 0);
+    font-size: 10px;
+    font-family:"Comic Sans MS";
+    display: inline;
+}
+
+.dislikebutton{
+    border: 1px solid rgba(50, 95, 255, 0.63);
+    background-color: rgba(255, 179, 55, 0);
+    font-size: 10px;
+    font-family:"Comic Sans MS";
+    display: inline;
+}
+
+.infomation{
+    font-size: 30px;
+    text-align: end;
+}

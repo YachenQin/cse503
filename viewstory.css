@@ -1,0 +1,86 @@
+body{
+    padding: 20px 5px 20px 20px;
+    text-align: center;
+    width:600px;
+}
+
+h3{
+    font-size: 20px;
+    font-family: "Arial Black";
+    font-weight: bolder;
+    color: lightcoral;
+}
+
+.title{
+    font-size: 30px;
+    font-family:"Comic Sans MS";
+    color:gray();
+}
+
+.author{
+    font-size: 15px;
+    font-family:"Bradley Hand";
+    color:darkslategray;
+}
+
+.context{
+    right:300px;
+    font-size: 20px;
+    font-family:"times";
+    color:black;
+    text-align: justify;
+    background-color: rgba(255, 253, 251, 0.35);
+}
+
+.background{
+    background-image: url(background-website.jpg);
+
+}
+
+.default{
+    border:1px solid lightblue;
+    position:absolute;
+    width:200px;
+    right:20px;
+    top: 20px;
+    text-align:center;
+    font-family: "American Typewriter";
+    font-size: 10px;
+}
+
+.comment{
+    border:1px solid lightblue;
+    text-align:left;
+    font-size: 15px;
+    background-color: rgba(255, 253, 251, 0.35);
+}
+
+.infomation{
+    font-size: 10px;
+    text-align: end;
+    position: fixed;
+}
+
+.submitbutton{
+    border: 1px solid rgba(255, 84, 152, 0.12);
+    background-color: rgba(255, 179, 55, 0);
+    font-size: 10px;
+    font-family:"Comic Sans MS";
+}
+
+.edbutton{
+    border: 1px solid rgba(255, 84, 152, 0.12);
+    background-color: rgba(255, 179, 55, 0);
+    font-size: 10px;
+    font-family:"Comic Sans MS";
+    position: absolute;
+    left:660px;
+}
+.deletebutton{
+    border: 1px solid rgba(255, 84, 152, 0.12);
+    background-color: rgba(255, 179, 55, 0);
+    font-size: 10px;
+    font-family:"Comic Sans MS";
+    position: absolute;
+    left:760px;
+}
