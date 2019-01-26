@@ -1,4 +1,4 @@
-#README
+#README#
 This is a story sharing site, where users can login, logout, upload, delete and edit stories, they can also upload, edit and delete their comments. If you don't have a user name you can register a new one. You can also view the website as a guest, but you can't edit stories and comments.
 
 LINK HERE: http://52.14.235.109/~qinyachen/module3/login_page.php
